@@ -1,19 +1,13 @@
 
-<!--FUNÇÃO ANTIGA.
-    import Link from 'next/link'
+import Link from 'next/link'
 function Home(){
     return (
         <div> <h1>Home - VdTech</h1>
         <Link href='/sobre'>
             <a>Acessar Página Sobre</a>
         </Link>
-    </div>)
-}
 
-//pesquisar essa função export default do NEXT JS.
-export default Home
--->
-<!DOCTYPE html>
+        <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -469,4 +463,8 @@ export default Home
         </footer>
         <script src="pgia/lib/pgia.js"></script>
     </body>
-</html>
+</html>    
+
+    </div>)
+}
+
